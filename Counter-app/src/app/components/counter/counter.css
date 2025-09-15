@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    gap: 30px;
+}
+
+button{
+    border: none;
+    outline: none;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: blanchedalmond;
+}
